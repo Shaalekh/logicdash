@@ -158,7 +158,7 @@ The **LogicDash** is an innovative and cost-effective solution to advance math s
 
 ### **12. Contact Information**
 
-**Team Name**: Aalekh Kumar Sharma\
+**Team Name**: Byte Knights\
 **Contact Email**: shaalekh@gmail.com\
 **Website**: gamingsociety.in\
 **Competition**: Innovate2Educate Handheld Device Design Challenge
