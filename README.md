@@ -143,7 +143,6 @@ The **LogicDash** is an innovative and cost-effective solution to advance math s
 
 ### **10. Visual Representation**
 
-![Proposed Model A](https://github.com/user-attachments/assets/b23b6615-cef1-483b-b96e-42ea16b4c343){ style="display: block; margin: 0 auto; width:50%" }
 ![Proposed Model B](https://github.com/user-attachments/assets/a9b4bfb1-fa9c-448d-9604-7168041afc17){ style="display: block; margin: 0 auto; width:50%" }
 *This visual representation is conceptual and shows the intended design and functionality. Final implementation may vary.*
 
