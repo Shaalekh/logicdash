@@ -144,8 +144,9 @@ The **LogicDash** is an innovative and cost-effective solution to advance math s
 ### **10. Visual Representation**
 
 #### **Device Layout**
-![Device Layout] ![gadget](https://github.com/user-attachments/assets/b23b6615-cef1-483b-b96e-42ea16b4c343)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b23b6615-cef1-483b-b96e-42ea16b4c343" alt="Device Layout">
+</p>
 
 
 ---
