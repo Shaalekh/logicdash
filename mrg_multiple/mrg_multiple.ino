@@ -11,7 +11,7 @@
 #define ROT_B    13   // Rotary Encoder Pin B
 #define ROT_BTN  12   // Rotary Encoder Button
 #define RESTART_BTN 9 // Restart button pin
-#define BUS      3    // Tunes on correct answer
+//#define BUS      3    // Tunes on correct answer
 
 // Initialize ST7735 Display
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
@@ -181,7 +181,7 @@ void setup() {
   pinMode(ROT_B, INPUT_PULLUP);
   pinMode(ROT_BTN, INPUT_PULLUP);
   pinMode(RESTART_BTN, INPUT_PULLUP);
-  pinMode(BUS, OUTPUT);
+  //pinMode(BUS, OUTPUT);
 
   randomSeed(analogRead(0));      // Initialize random seed
 
@@ -233,9 +233,9 @@ void loop() {
         tft.setTextColor(ST7735_WHITE);
         tft.setTextSize(2);
         tft.print("Correct!");
-        digitalWrite(BUS, HIGH);
-        delay(200);
-        digitalWrite(BUS, LOW);
+        //digitalWrite(BUS, HIGH);
+        //delay(200);
+        //digitalWrite(BUS, LOW);
       } else {
         tft.fillScreen(ST7735_RED);
         tft.setTextColor(ST7735_WHITE);
